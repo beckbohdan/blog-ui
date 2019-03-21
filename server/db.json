@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Why I read books?",
+      "author": "me",
+      "datestamp": "2019-03-16T12:30:09.215Z",
+      "body": "<p><strong>Books</strong> There is an old saying, 'The pen is mightier than the sword.'' Ideas written down have changed the destiny of men and nations for better or worse. The flow of ideas cannot be stopped. We need to read and research to build on the good ideas and expose the bad ideas before they bring destruction. Only by reading can we be armed in this never-ending, life-and-death struggle. Books plays an important role in in our life. It is said that books are our best companions. Books are real friends in our lives . They demand nothing from us. They give us plenty of joy. We also learn a lot from them. They take us into a different world of imagination.</p>",
+      "category": "books"
+    },
+    {
+      "id": "2",
+      "title": "What is your dream car?",
+      "author": "me",
+      "datestamp": "2019-03-16T13:40:29.542Z",
+      "body": "<p><strong>Cars</strong>I chose a similar way as Preben Reppenhagen did although slightly different.See, all of your dream cars are amazing. They are stunning, could whip almost everyone at nearly any given circuit but most of them lack the also essential thing for owning one single car. They are as practical as a sledgehammer is to a dead man. So I actually thought of that and went for this beauty: It doesn’t even look menacing, now does it? Think again, this subtle fella has 580 bhp and a monstrous 650 nm of torque bone stock. Oh and also 565 liters of min volume of trunk and a stunning 1660 liters of maximum volume. Perfect family race-car. You can definitely go on a vacation in this car, only it will take you there much faster than you regular estate.</p>",
+      "category": "cars"
+    },
+    {
+      "id": "3",
+      "title": "What is sport?",
+      "author": "me",
+      "datestamp": "2019-03-18T14:31:02.564",
+      "body": "<p><s>Sport</s> Sport is probably as old as the humanity itself. All over the world people of different ages are very fond of sports and games. Firstly, sport helps people to become strong and to develop physically. Secondly, it makes them more organized and better disciplined in their daily activities. Also sport keeps your mind healthy. Sport helps people to keep in good health. We all need to exercise. Regular exercises give you more energy. Exercises make you feel and look better. The best exercises are: walking, jogging or swimming. Among the sports popular in our country are football, basketball, swimming, volley-ball, ice hockey, tennis, gymnastics, figure skating. A person can choose sports and games for any season, for any taste.</p>",
+      "category": "sport"
+    },
+    {
+      "id": "4",
+      "title": "The Psychology of Design",
+      "author": "me",
+      "datestamp": "2019-03-19T16:32:54.546Z",
+      "body": "<p>There are a number of debates about which additional skills designers should learn. Should designers code, write, or understand business? These skills are incredibly valuable but perhaps not essential. However, I would argue that every designer should learn the fundamentals of psychology. As humans, we have an underlying “blueprint” for how we perceive and process the world around us, and the study of psychology helps us define this blueprint. As designers, we can leverage psychology to build more intuitive, human-centered products and experiences. Instead of forcing users to conform to the design of a product or experience, we can use some key principles from psychology as a guide for designing how people actually are.</p>",
+      "category": "design"
+    },
+  
+  ],
+  "categories": [
+    {
+      "name": "books",
+      "id": "1"
+    },
+    {
+      "name": "cars",
+      "id": "2"
+    },
+    {
+      "name": "sport",
+      "id": "3"
+    },
+    {
+      "name": "design",
+      "id": "4"
+    }
+  ]
+}
